@@ -1,11 +1,13 @@
 # Machine-Learning
 This repo contains all the projects and assignments that I have completed as a part of Machine Learning course on Coursera. The course covers pretty much all important ML concepts and algorithms and provides many excellent assignments along with quizzes, so as to strengthen one's understanding. This course discusses about many state-of-the-art **Supervised and Unsupervised learning** algorithms, and also does quite in-depth analysis of **Recommender Systems** models.
 
-**The solutions have been uploaded for personal academic purposes and can be used as a reference by others (but I strongly recommend trying out the assignments on your own).**
+**The solutions have been uploaded for personal academic purposes and can be used as a reference by others (but I strongly recommend trying out the assignments on your own).** 
 
 Instructor: [Prof. Andrew Ng](https://www.coursera.org/instructor/andrewng)
 
 Offered by: [Stanford University](https://www.coursera.org/learn/machine-learning)
+
+Language: **Octave (files in this repo use this)** or MATLAB
 
 ## Course Certificate: [Verified by Coursera](https://www.coursera.org/account/accomplishments/certificate/F5RKBCXKN8TM)
 
